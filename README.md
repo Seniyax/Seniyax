@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seniya</h1>
-<h3 align="center">I'm Actually a quant who’s always chasing the purr-fect model</h3>
+<h3 align="center">--00--</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
